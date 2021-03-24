@@ -1,0 +1,27 @@
+{
+  "name": "jest-puppeteer-screenshots",
+  "version": "1.0.0",
+  "description": "Hexlet puppeteer settings for Jest. Used for testing by screenshots",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexlet-components/jest-puppeteer-screenshots.git"
+  },
+  "keywords": [
+    "jest",
+    "puppeteer"
+  ],
+  "author": "nmikhaylov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hexlet-components/jest-puppeteer-screenshots/issues"
+  },
+  "homepage": "https://github.com/hexlet-components/jest-puppeteer-screenshots#readme",
+  "devDependencies": {
+    "mkdirp": "^1.0.4",
+    "puppeteer": "^8.0.0",
+    "rimraf": "^3.0.2"
+  }
+}
