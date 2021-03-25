@@ -1,5 +1,5 @@
 module.exports = {
-  globalSetup: require.resolve('./preset/lib/setup.js'),
-  globalTeardown: require.resolve('./preset/lib/teardown.js'),
-  testEnvironment: require.resolve('./preset/lib/puppeteer_environment.js'),
+  globalSetup: require.resolve('./lib/setup.js'),
+  globalTeardown: require.resolve('./lib/teardown.js'),
+  testEnvironment: require.resolve('./lib/puppeteer_environment.js'),
 }
